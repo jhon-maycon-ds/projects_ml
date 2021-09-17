@@ -22,7 +22,7 @@ Foi utilizada a linguagem Python com suas devidas bibliotecas no Jupyter Noteboo
 
 ## 👨‍💻 Contribuição
 
-Sinta-se a vontade para contribuir com sugestões, dicas, melhores práticas, etc. Toda ajuda é bem-vinda 💜
+Sinta-se a vontade para contribuir com sugestões, dicas, melhores práticas, etc. Toda ajuda é bem-vinda!
 
 ## 💪 Como contribuir para o projeto
 
